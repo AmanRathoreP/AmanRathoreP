@@ -1,9 +1,9 @@
 ```git
-git config user.name "Aman"
+git config --global user.name "Aman"
 ```
 
 ```git
-git config user.email "aman.proj.rel@gmail.com"
+git config --global user.email "aman.proj.rel@gmail.com"
 ```
 
 ```git
@@ -19,15 +19,15 @@ git config gc.reflogExpire never
 <!-- git config --global gc.reflogExpire never -->
 
 ```git
-git config alias.last 'log -1 HEAD --stat'
+git config --global alias.last 'log -1 HEAD --stat'
 ```
 
 ```git
-git config alias.search '!git rev-list --all | xargs git grep -F'
+git config --global alias.search '!git rev-list --all | xargs git grep -F'
 ```
 
 ```git
-git config alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --"
+git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --"
 ```
 
 ```git
