@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AmanRathoreP
-- 👀 I’m interested in Robotics, AI, Machine-Learning, Deep-Learning etc.
-- 🌱 I’m currently learning Digital as well as Analog Electronics
+- 👋 Hi, I’m Aman Rathore, here is [my website](amanr.me).
+- 👀 I’m interested in Robotics, AI, Angeogneis, Virology, Gene Doping, Neurobiology, Embryology, and Toxin research.
+- 🌱 I’m pursuing BS-MS from [IISER Mohali](https://www.iisermohali.ac.in/)
 - 💞️ I’m looking to collaborate on anything except designing stuff
 
 <!---
