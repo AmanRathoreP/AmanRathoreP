@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aman Rathore, here is [my website](amanr.me).
+- 👋 Hi, I’m Aman Rathore, here is [my website](https://amanr.me/).
 - 👀 I’m interested in Robotics, AI, Angeogneis, Virology, Gene Doping, Neurobiology, Embryology, and Toxin research.
 - 🌱 I’m pursuing BS-MS from [IISER Mohali](https://www.iisermohali.ac.in/)
 - 💞️ I’m looking to collaborate on anything except designing stuff
