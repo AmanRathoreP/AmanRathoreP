@@ -1,0 +1,41 @@
+[core]
+	editor = \"C:\\Users\\Aman Rathore\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait
+[user]
+	name = Aman
+	email = aman.proj.rel@gmail.com
+[alias]
+	last = log -1 HEAD --stat
+	search = !git rev-list --all | xargs git grep -F
+	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --
+	gb = branch
+	gba = branch --all
+	gc = commit
+	gca = commit --amend --no-edit
+	gce = commit --amend
+	gco = checkout
+	gcl = clone --recursive
+	gd = diff --output-indicator-new=" " --output-indicator-old=" "
+	gds = diff --staged
+	gi = init
+	gl = log --graph --all --pretty=format:"%C(magenta)%h %C(white) %an  %ar%C(blue)  %D%n%s%n"
+	gm = merge
+	gn = checkout -b
+	gp = push
+	gr = reset
+	gs = status --short
+	gu = pull
+[blame]
+    coloring = highlightRecent
+    date = relative
+[diff]
+    context = 3  # less context in diffs
+[init]
+    defaultBranch = master
+[status]
+    branch = true
+    short = true
+    showStash = true
+    showUntrackedFiles = all
+[push]
+    default = current
+    followTags = true
